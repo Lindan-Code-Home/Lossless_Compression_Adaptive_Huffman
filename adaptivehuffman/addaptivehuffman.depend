@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+473558710 source:f:\course of 2013 spring\ee669\adaptivehuffman\errhand.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	"errhand.h"
+
+473558710 f:\course of 2013 spring\ee669\adaptivehuffman\errhand.h
+
+473558710 source:f:\course of 2013 spring\ee669\adaptivehuffman\bitio.c
+	<stdio.h>
+	<stdlib.h>
+	"bitio.h"
+	"errhand.h"
+
+473558710 f:\course of 2013 spring\ee669\adaptivehuffman\bitio.h
+	<stdio.h>
+
+1360327913 source:f:\course of 2013 spring\ee669\adaptivehuffman\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"bitio.h"
+	"errhand.h"
+

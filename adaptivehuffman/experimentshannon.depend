@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+473558710 source:f:\course of 2013 spring\ee669\experiment\errhand.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	"errhand.h"
+
+473558710 f:\course of 2013 spring\ee669\experiment\errhand.h
+
+1359771406 source:f:\course of 2013 spring\ee669\experiment\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"bitio.h"
+	"errhand.h"
+
+473558710 f:\course of 2013 spring\ee669\experiment\bitio.h
+	<stdio.h>
+
+473558710 source:f:\course of 2013 spring\ee669\experiment\bitio.c
+	<stdio.h>
+	<stdlib.h>
+	"bitio.h"
+	"errhand.h"
+
